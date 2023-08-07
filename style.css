@@ -1,1 +1,17 @@
+.a{
+    background-color: blueviolet;
+    padding: 15px 0;
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 3px;
+    box-shadow: 10px;
+    width: 120px;
+    box-shadow: 10px 10px #eeaeca;
+}
 
+.meiuca{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 5px;
+  }
