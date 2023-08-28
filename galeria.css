@@ -1,20 +1,22 @@
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
+.box-galeria{ 
+	width:100%; 
+	float:left; 
 }
-
-div.gallery:hover {
-  border: 1px solid #777;
+.box-foto{ 
+	
+	width:100%; 
+	float:left; 
+	margin-bottom:4%; 
+	background:#fff; 
+	box-shadow: 1px 0px 1.2px 0px #e3e3e3; 
+	border-radius:3px; 
+	padding:0.5em;
+	transition:0.7s; 
 }
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
+.box-foto:hover { background-color:#333333; }
+/*Responsivo*/
+/*600 dividido por 16 = 37,5em*/
+@media (min-width:37em){
+    .box-foto{ width:23.5%; margin-right:2%; margin-bottom:2%; }
+    .box-foto:nth-of-type(4n+0) { margin-right:0; }
+} 
