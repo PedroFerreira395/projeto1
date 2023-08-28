@@ -1,12 +1,20 @@
-body {
-  background-color: #f5f5dc;
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
 }
-img {
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
   width: 100%;
-  border-radious: 4px;
-  margin-botton: 10px;
+  height: auto;
 }
-section{
-  column-count: 5;
-  column-gap: 10px;
+
+div.desc {
+  padding: 15px;
+  text-align: center;
 }
