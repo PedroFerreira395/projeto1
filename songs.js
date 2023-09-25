@@ -1,11 +1,11 @@
 export default [
   {
-    src: "./src/Dude - Patrick Patrikios.mp3",
-    name: "Dude - Patrick Patrikios",
+    src: "Starman.mp3",
+    name: "David Bowie - Starman",
   },
   {
-    src: "./src/Girl Before A Mirror - Verified Picasso.mp3",
-    name: "Girl Before A Mirror - Verified Picasso",
+    src: "To-the-moon.mp3",
+    name: "Frank Sinatra - Fly me to the Moon",
   },
   {
     src: "./src/Like That - Anno Domini Beats.mp3",
