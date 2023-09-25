@@ -8,7 +8,7 @@ export default [
     name: "Frank Sinatra - Fly me to the Moon",
   },
   {
-    src: "I love You Baby.mp3",
+    src: "I Love You Baby.mp3",
     name: "Frank Sinatra - I Love You Baby",
   },
   {
@@ -38,6 +38,5 @@ export default [
   {
     src: "For The Glory.mp3",
     name: "All Good Things - For The Glory",
-  }
-   
+  },  
 ];
