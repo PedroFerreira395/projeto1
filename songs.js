@@ -17,7 +17,7 @@ export default [
   },
   {
     src: "Livin' On A Prayer.mp3",
-    name: "Bon Jovi - Livin' On a Payer",
+    name: "Bon Jovi - Livin' On a Prayer",
   },
   {
     src: "Pompeii.mp3",
