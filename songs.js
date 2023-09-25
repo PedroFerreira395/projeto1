@@ -8,19 +8,36 @@ export default [
     name: "Frank Sinatra - Fly me to the Moon",
   },
   {
-    src: "./src/Like That - Anno Domini Beats.mp3",
-    name: "Like That - Anno Domini Beats",
+    src: "I love You Baby.mp3",
+    name: "Frank Sinatra - I Love You Baby",
   },
   {
-    src: "./src/Shake - Anno Domini Beats.mp3",
-    name: "Shake - Anno Domini Beats",
+    src: "I'm Still Standing.mp3",
+    name: "Elton John - I'm Still Standing",
   },
   {
-    src: "./src/Turn Up Burn Up - Diamond Ortiz.mp3",
-    name: "Turn Up Burn Up - Diamond Ortiz",
+    src: "Livin' On A Prayer.mp3",
+    name: "Bon Jovi - Livin' On a Payer",
   },
   {
-    src: "./src/Yo Picasso - Verified Picasso.mp3",
-    name: "Yo Picasso - Verified Picasso",
+    src: "Pompeii.mp3",
+    name: "Bastille - Pompeii",
   },
+  {
+    src: "Soldier, Poet, King.mp3",
+    name: "The On Hellos - Soldier, Poet, King",
+  },
+  {
+    src: "You Don't Mess Around With Jim.mp3",
+    name: "Jim Croce - You Don't Mess Around With Jim",
+  },
+  {
+    src: "Viva la Vida.mp3",
+    name: "Cold Play - Viva la Vida",
+  },
+  {
+    src: "For The Glory.mp3",
+    name: "All Good Things - For The Glory",
+  }
+   
 ];
